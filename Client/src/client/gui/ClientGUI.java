@@ -12,7 +12,7 @@ package client.gui;
 
 /**
  *
- * @author Auroma
+ * @author j
  */
 import client.Client;
 import java.io.IOException;

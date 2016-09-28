@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 /** 
  * This class forms the basis of the Client side creates connection with 
  * the Server and starts ClientGUI
- * @author Auroma
+ * @author j
  */
 public class Client {
    public static DataOutputStream OUT = null;

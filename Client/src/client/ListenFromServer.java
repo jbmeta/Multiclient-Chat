@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Auroma
+ * @author j
  */
 class ListenFromServer implements Runnable {
 
