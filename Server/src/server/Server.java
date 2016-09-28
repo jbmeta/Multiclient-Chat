@@ -21,7 +21,7 @@ import server.gui.ServerGUI;
  *  1) Start the Server GUI Screen
  *  2) Listen for New Connections from new Clients
  *  3) Start a new Thread for each newly connected Client
- * @author Auroma
+ * @author j
  */
 public class Server {
 

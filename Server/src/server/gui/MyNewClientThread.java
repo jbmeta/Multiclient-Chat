@@ -14,7 +14,7 @@ import server.Server;
 
 /**
  *  This class works to make the Server MultiThreaded.
- *  @author Auroma
+ *  @author j
  */
 public class MyNewClientThread implements Runnable{
     Socket newClient;

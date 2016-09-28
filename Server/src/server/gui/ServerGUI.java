@@ -12,7 +12,7 @@ package server.gui;
 
 /**
  *
- * @author Auroma
+ * @author j
  */
 public class ServerGUI extends javax.swing.JFrame {
 
