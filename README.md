@@ -5,14 +5,14 @@ To run the application, just download the client and server JARs, first start th
 
 # How the program works?
 Server:-
-1. Start the Server GUI Screen.
-2. Listen for new connections from new Clients.
-3. Start a new Thread for each newly connected Client.
-4. Keep listening for new connections or messages sent, and update the conversations view accordingly.
+* Start the Server GUI Screen.
+* Listen for new connections from new Clients.
+* Start a new Thread for each newly connected Client.
+* Keep listening for new connections or messages sent, and update the conversations view accordingly.
  
 Client:-
-1. Start the Client GUI Screen.
-2. Spawn a new thread which keeps listening to incoming messages from server, and update the conversations view accordingly.
-3. Send to the server any new messages, and update the conversations view accordingly. 
+* Start the Client GUI Screen.
+* Spawn a new thread which keeps listening to incoming messages from server, and update the conversations view accordingly.
+* Send to the server any new messages, and update the conversations view accordingly. 
  
  
